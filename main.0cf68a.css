@@ -3233,14 +3233,6 @@ pre .css~* .id,pre .id {
 }
 
 @media screen and (max-width:800px) {
-	body {
-		background: url(https://oss.yansheng.xyz/wallpaper/your-name-phone2ys.jpg) no-repeat fixed top
-	}
-
-	.article-entry .highlight .gutter pre {
-		padding: 3px
-	}
-
 	#container,body,html {
 		height: auto;
 		overflow-x: hidden;
